@@ -1,0 +1,318 @@
+.navigation-links1-nav3 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.navigation-links1-navlink10 {
+  text-decoration: none;
+}
+.navigation-links1-navlink11 {
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navigation-links1-navlink12 {
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navigation-links1-navlink13 {
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+.navigation-links1-navlink14 {
+  margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 1900px) {
+  .navigation-links1-root-class-name8 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name10 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name12 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name14 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name16 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name17 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name20 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name22 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name24 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+  .navigation-links1-root-class-name26 {
+    background-color: rgba(217, 217, 217, 0);
+  }
+}
+@media(max-width: 767px) {
+  .navigation-links1-nav3 {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .navigation-links1-navlink10 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-navlink11 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-navlink12 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-navlink13 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .navigation-links1-navlink14 {
+    margin-left: 0;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
+
+.contact-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(39, 39, 45, 0);
+}
+.contact-header {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.contact-image {
+  width: 125px;
+  height: 99px;
+}
+.contact-nav {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.contact-burger-menu {
+  display: none;
+}
+.contact-icon {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  display: flex;
+}
+.contact-mobile-menu {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100vh;
+  display: none;
+  padding: 32px;
+  z-index: 100;
+  position: absolute;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+.contact-nav1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contact-container1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-threeunits);
+  justify-content: space-between;
+}
+.contact-image1 {
+  height: 2rem;
+}
+.contact-close-mobile-menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-icon02 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.contact-icon04 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.contact-icon06 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.contact-icon08 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+.contact-container3 {
+  display: contents;
+}
+.contact-hero {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  position: relative;
+  min-height: 80vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: linear-gradient(45deg, rgba(13, 36, 74, 0.8) 6.00%,rgba(5, 164, 195, 0.8) 92.00%),url("public/Icons/downtown-skyline-river-view-1-scaled-e1600454910804-1500h.jpg");
+}
+.contact-text {
+  color: var(--dl-color-gray-white);
+  font-size: 3rem;
+}
+.contact-link {
+  display: contents;
+}
+.contact-btn-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  text-decoration: none;
+}
+.contact-button {
+  color: var(--dl-color-gray-white);
+  font-size: 0.75rem;
+  transition: 0.3s;
+  margin-left: var(--dl-space-space-unit);
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-white);
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-transform: uppercase;
+  background-color: transparent;
+}
+.contact-button:hover {
+  transform: scale(1.02);
+}
+.contact-footer {
+  width: 100%;
+  height: 107px;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+}
+.contact-image2 {
+  width: 81px;
+  height: 76px;
+  object-fit: cover;
+}
+.contact-icon-group1 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contact-icon10 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.contact-icon12 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-twounits);
+}
+.contact-icon14 {
+  width: var(--dl-size-size-xsmall);
+  height: var(--dl-size-size-xsmall);
+}
+@media(max-width: 1900px) {
+  .contact-image {
+    width: 145px;
+    height: 118px;
+  }
+  .contact-hero {
+    background-image: url("public/Icons/downtown-skyline-river-view-1-scaled-e1600454910804-1500h.jpg");
+  }
+}
+@media(max-width: 767px) {
+  .contact-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .contact-nav {
+    display: none;
+  }
+  .contact-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .contact-image1 {
+    width: var(--dl-size-size-medium);
+    height: auto;
+  }
+  .contact-text4 {
+    font-size: 11px;
+  }
+}
+@media(max-width: 479px) {
+  .contact-header {
+    padding: var(--dl-space-space-unit);
+  }
+  .contact-mobile-menu {
+    padding: 16px;
+  }
+}
