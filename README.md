@@ -1,4 +1,4 @@
-About the Project
+About the Project:
 This is a developmental build for a website developed for the Compassionate Hearts Initiative (CHI), 
 a local non-profit organization dedicated to assisting homeless individuals and families.
 The website was developed for proof of concept and giving next year's team something to work with.
