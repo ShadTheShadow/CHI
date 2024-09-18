@@ -22,3 +22,5 @@ Technologies Used
 HTML/CSS: For structuring and styling the website.
 JavaScript: For interactive elements and user interface enhancements.
 GitHub Pages: For hosting and deploying the website.
+
+*All pictures and bios were approved for public use*
