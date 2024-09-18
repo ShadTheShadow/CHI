@@ -5,7 +5,7 @@ a local non-profit organization dedicated to assisting homeless individuals and 
 The website was developed for proof of concept and giving next year's team something to work with.
 The site aims to raise awareness about homelessness, provide essential resources, and offer ways for the community to contribute and get involved.
 
-Features
+Features:
 
 
 About Us: Learn more about the mission and goals of CHI.
